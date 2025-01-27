@@ -12,11 +12,8 @@ Luca</a></h1>
 
 <pre>
 💻 I am mainly a Backend Developer
-📚 I have a Bachelors in Computer Science from the University of Dar Es Salaam
-📝 I have a strong interest in Software Engineering and Design
-🛠️ Currently working on a fintech solution with @PesaLock
-🌱 Learning about efficient designs for scalable systems
+📚 I am a student of Technicatura en Programación at Universidad Tecnológica Nacional
 🌟 Main language: Java 😁
-🚩 Interested in Server Side Application development
-😃 I look forward to collaborate on impactful projects
+😃 I look forward to collaborating on impactful projects
+🇦🇷 I am from Argentina, currently seeking employment, and interested in learning about cybersecurity
 </pre>
