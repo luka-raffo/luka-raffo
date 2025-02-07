@@ -31,6 +31,6 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,maven,spring,mysql,postman,idea,hibernate,eclipse,git,github,cpp,hibernate,css,discord,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=java,maven,spring,mysql,postman,idea,hibernate,eclipse,git,github,cpp,javascript,css,discord,bootstrap" />
   </a>
 </p>
